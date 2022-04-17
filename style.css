@@ -1,0 +1,73 @@
+header, footer {
+  background-color:BlanchedAlmond	;
+  padding:10px;
+  height:99px;
+}
+main{
+  padding:10px;
+  background-color:silver;
+  margin:10px 0 10px 0;
+}
+.post{
+  background-color:white;
+  padding:20px;
+  border-radius:20px;
+  margin-bottom:10px;
+  display:flex;
+}
+.post img {
+  margin:20px;
+}
+#menu {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+ul {
+  position: relative;
+   display: block;
+  margin: 0;
+  width: 100%;
+  height: auto;
+  list-style-type: style none; ;
+  
+}
+li {
+  position: relative;
+    display: block;
+  float: left;
+  width: auto;
+height: auto;
+  
+}
+a {
+    display: block;
+  padding: 10px;
+ font-size: 14pt;
+ font-weight: bold;
+   text-decoration: none;
+  color:black;
+  text-transform: uppercase;
+box-sizing: border-box;
+background-color:WhiteSmoke;
+  border: 2px solid rosybrown;
+}
+a:hover {
+background-color: DarkSeaGreen;
+border-radius: 15px;
+color:black;
+border: 3px GhostWhite;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Fjalla+One&family=Pacifico&display=swap');
+
+.second {
+font-family: Abel;
+}
+.o {
+   font-family:Fjalla One;
+}
+.a {
+  font-family: Pacifico;
+}
